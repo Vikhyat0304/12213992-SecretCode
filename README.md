@@ -1,1 +1,18 @@
-# 12213992-SecretCode
+OUTPUT FOR TESTCASE1.JSON
+Secret from testcase1.json: 183*9
+Likely faulty shares (if any):
+Share (1) may be faulty.
+Share (2) may be faulty.
+Share (3) may be faulty.
+
+
+OUTPUT FOR TESTCASE2.JSON
+Secret from testcase2.json: 14210196203)(0.0+7,0*--)/3448
+Likely faulty shares (if any):
+Share (1) may be faulty.
+Share (2) may be faulty.
+Share (3) may be faulty.
+Share (4) may be faulty.
+Share (5) may be faulty.
+Share (6) may be faulty.
+Share (7) may be faulty.
